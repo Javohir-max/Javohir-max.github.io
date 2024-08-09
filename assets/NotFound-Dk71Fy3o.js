@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a as s}from"./index-GYUTFusr.js";const c={},n=s("h1",{style:{"text-align":"center"},class:"green"},"Page Not Found Status 404",-1),a=[n];function r(_,d){return o(),t("div",null,a)}const i=e(c,[["render",r]]);export{i as default};
